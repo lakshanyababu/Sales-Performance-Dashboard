@@ -170,9 +170,3 @@ Aspiring Data Analyst / Power BI Developer
 
 
 
-* 🔥 A strong **LinkedIn project description**
-* 🎯 Resume bullet points (ATS-friendly)
-* 🏆 Interview explanation script for this project
-* 📁 GitHub-ready version with markdown formatting
-
-Tell me what you need next.
