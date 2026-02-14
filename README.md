@@ -168,9 +168,7 @@ Aspiring Data Analyst / Power BI Developer
 * Passionate about transforming data into actionable insights
 * Open to Data Analyst / BI Developer roles
 
----
 
-If you'd like, I can also give you:
 
 * 🔥 A strong **LinkedIn project description**
 * 🎯 Resume bullet points (ATS-friendly)
